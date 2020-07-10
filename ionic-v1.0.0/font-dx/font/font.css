@@ -1,0 +1,83 @@
+@font-face {
+	font-family: 'MaterialIcons-Regular';
+	src: local('MaterialIcons-Regular'), url('./MaterialIcons-Regular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'MaterialIcons-Regular' !important;
+}
+
+
+@font-face {
+	font-family: 'Dolceveta';
+	src: local('Dolceveta'), url('./Dolceveta.ttf') format('truetype');
+}
+
+.fontsforweb_fontid_11195 {
+	font-family: 'Oswald' !important;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Dolceveta'), url('./Roboto.ttf') format('truetype');
+}
+
+.fontsforweb_fontid_11195 {
+	font-family: 'Roboto' !important;
+}
+
+@font-face {
+	font-family: 'Oswald';
+	src: url('./Oswald.eot');
+	src: local('Oswald'), url('./Oswald.woff') format('woff'), url('./Oswald.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'Oswald' !important;
+}
+
+
+@font-face {
+	font-family: 'MAGNETOB';
+	src: url('./MAGNETOB.eot');
+	src: local('MAGNETOB'), url('./MAGNETOB.woff') format('woff'), url('./MAGNETOB.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'MAGNETOB' !important;
+}
+
+
+@font-face {
+	font-family: 'LCDBOLD';
+	src: url('./LCDBOLD.eot');
+	src: local('LCDBOLD'), url('./LCDBOLD.woff') format('woff'), url('./LCDBOLD.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'LCDBOLD' !important;
+}
+
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./incm.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
