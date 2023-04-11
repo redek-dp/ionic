@@ -14,3 +14,5 @@ ionic/ionic.js
 ```bash
 https://redek-dp.github.io/ionic/core-seven/dist/ionic/ionic.js
 ```
+
+https://www.npmjs.com/package/@ionic/core
